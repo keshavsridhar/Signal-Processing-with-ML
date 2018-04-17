@@ -1,2 +1,12 @@
 # Signal-Processing-with-ML
-Signal processing techniques
+Implementation of various signal processing techniques namely,
+> Speech Denoising
+> Instantaneous Source separation
+> Masking
+> Depth perception
+> Multidimensional scaling
+> Dimension reduction
+> Probabilistic Latent Semantic Indexing
+> Radial Basis Functions
+> Markov Random Field Smoothing
+> Eigen decomposition
