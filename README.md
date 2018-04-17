@@ -1,7 +1,7 @@
 # Signal-Processing-with-ML
 Implementation of various signal processing techniques namely,
-> Speech Denoising </b>
-> Instantaneous Source separation
+1. Speech Denoising
+2. Instantaneous Source separation
 > Masking
 > Depth perception
 > Multidimensional scaling
